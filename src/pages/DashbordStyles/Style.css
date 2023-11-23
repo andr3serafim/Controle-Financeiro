@@ -1,0 +1,135 @@
+.btnValor {
+  display: flex;
+  flex-direction: column;
+  padding: 15px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #7fff00;
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 10px 2px;
+  width: 250px;
+  margin-left: 75px;
+  margin-right: 75px;
+  box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s;
+  /* Transição suave ao mudar a cor de fundo */
+}
+
+.btnValorDespesas {
+  display: flex;
+  flex-direction: column;
+  padding: 15px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ff1e00df;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin: 10px 2px;
+  width: 250px;
+  margin-left: 75px;
+  margin-right: 75px;
+  box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s;
+  /* Transição suave ao mudar a cor de fundo */
+}
+
+
+.titulo2 {
+  display: flex;
+  flex-direction: column;
+  padding: 0 15px;
+  padding-bottom: 10px;
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 10px 2px;
+  width: 400px;
+}
+
+.logo{
+  width: 80px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+
+.custom-navbar, .nav-link {
+  color: #fff !important;
+  margin-bottom: 20px;
+
+}
+
+.custom-navbar .nav-link:hover {
+  color: #fff !important;
+}
+
+.custom-navbar .navbar-nav {
+  border-radius: 5px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.custom-navbar .nav-link {
+  font-size: 18px;
+  width: 200px;
+  border: 1px solid #dddddd86;
+  background-color: #7a7a7a46;
+}
+
+.custom-navbar .nav-link:hover {
+  background-color: #8b8e9073;
+  border: 1px solid #dddddd86;
+}
+
+.custom-navbar .nav-item {
+  margin-right: 15px; /* Ajuste este valor conforme a sua necessidade */
+}
+
+.custom-navbar .nav-item:last-child {
+  margin-right: 0; /* Para garantir que o último item não tenha margem à direita */
+}
+
+.btn-salvar {
+  width: 95px;
+}
+
+.btn-voltar {
+  width: 95px;
+}
+
+.mb-4 {
+  padding: 15px 30px;
+  background-color: #2f3132;
+  width: 100%;
+  color: #fff ;
+  border-radius: 6px;
+  align-items: center;
+}
+
+
+/* página add receitas -----------------------------*/ 
+
+.container-add {
+  border: 1px #ddd solid;
+  padding: 60px 50px !important;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 1300px !important;
+}
+
+
+/* página add despesas ------------------------------*/
+
